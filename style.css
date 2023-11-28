@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    transition: background-color 0.5s ease;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+    margin: 0;
+    height: 100vh;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+}
